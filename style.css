@@ -1,0 +1,43 @@
+body {
+  background-color: lightskyblue;
+  margin: 30px 15px 50px 15px;
+  border-width: medium;
+  border-color: red;
+  border-style: dashed;
+  padding-bottom: 25%;
+
+}
+
+.a {
+  color: goldenrod;
+  text-align: center;
+  font-family: cursive;
+}
+
+.b {
+  color: goldenrod;
+  text-align: right;
+  font-family: cursive;
+}
+
+.c {
+  color: goldenrod;
+  text-align: center;
+  font-family: cursive;
+}
+
+p {
+  color: black;
+  font-family: monospace;
+  font-size: 125%;
+  padding: 15px;
+  box-sizing: border-box;
+
+}
+
+ul {
+  color: black;
+  font-family: monospace;
+  font-size: 125%;
+  margin-top: 30px;
+}
