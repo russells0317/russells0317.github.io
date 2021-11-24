@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  margin: 30px 15px 50px 15px;
+  border-width: medium;
+  border-color: red;
+  border-style: dashed;
+}
+
+h3 {
+  color: goldenrod;
+  text-align: left;
+  font-family: cursive;
+}
+
+img {
+  float: left;
+  margin: 5px;
+  padding: 10px;
+}
+
+p {
+  color: black;
+  font-family: monospace;
+  font-size: 125%;
+  text-align: justify;
+}
+
+ul {
+  color: black;
+  font-family: monospace;
+  font-size: 125%;
+  margin-top: 30px;
+}
